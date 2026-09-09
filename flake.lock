@@ -67,15 +67,13 @@
       "locked": {
         "lastModified": 1787946359,
         "narHash": "sha256-r7u8l+WuZ+GAeeBkiUPnnSonCnKsMtnKPFtgBDvl3WU=",
-        "owner": "julian-corbet",
-        "repo": "nixk3s-corbet-ch",
         "rev": "8d170666c49df02d366cdffc6d42c5e802cdb5b1",
-        "type": "github"
+        "type": "git",
+        "url": "https://github.com/julian-corbet/nixk3s-corbet-ch"
       },
       "original": {
-        "owner": "julian-corbet",
-        "repo": "nixk3s-corbet-ch",
-        "type": "github"
+        "type": "git",
+        "url": "https://github.com/julian-corbet/nixk3s-corbet-ch"
       }
     },
     "nixpkgs": {
