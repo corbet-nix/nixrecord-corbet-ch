@@ -69,11 +69,11 @@
         "narHash": "sha256-r7u8l+WuZ+GAeeBkiUPnnSonCnKsMtnKPFtgBDvl3WU=",
         "rev": "8d170666c49df02d366cdffc6d42c5e802cdb5b1",
         "type": "git",
-        "url": "https://github.com/julian-corbet/nixk3s-corbet-ch"
+        "url": "https://github.com/corbet-nix/nixk3s-corbet-ch"
       },
       "original": {
         "type": "git",
-        "url": "https://github.com/julian-corbet/nixk3s-corbet-ch"
+        "url": "https://github.com/corbet-nix/nixk3s-corbet-ch"
       }
     },
     "nixpkgs": {
