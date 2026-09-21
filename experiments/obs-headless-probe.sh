@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# SPDX-License-Identifier: MIT OR Apache-2.0
 # obs-headless-probe.sh — reproduces the ground-truth-gathering technique
 # studies/obs-config-ground-truth.md is built on: launch a REAL, installed OBS Studio against a
 # throwaway, fully isolated XDG_CONFIG_HOME, let it write its own default profile + scene

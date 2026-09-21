@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT OR Apache-2.0
 # Placeholder values for the cluster module — the file that makes the render check real.
 # `nix flake check` renders the whole surface from here, so a module that stops evaluating, or that
 # grows a required value nobody supplies, fails in CI rather than in somebody's cluster.

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT OR Apache-2.0
 # Evaluates home/nixrecord.nix for real against a minimal home-manager stub, and asserts what it
 # renders — the same "Nix inspecting Nix" tier nixscroll's checks/layout-outputs.nix and
 # checks/startup-contract.nix are: this proves the module renders what it INTENDS, not that OBS

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT OR Apache-2.0
 # Evaluates modules/catalogue.nix for real, with every group selected, and proves `edit`
 # resolves into `archPackages`/`nixosPackages` exactly like `capture`/`control` already do.
 #

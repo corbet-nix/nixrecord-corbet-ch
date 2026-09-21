@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT OR Apache-2.0
 # Arch/CachyOS plane — declares "obs-studio" into nixarch's `nixarch.packages.pacman`
 # reconciler. Import alongside `nixarch.systemManagerModules.packages`, or the list is computed
 # and nothing acts on it — same contract nixscroll's own modules/system-manager.nix documents.

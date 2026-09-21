@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT OR Apache-2.0
 # home/nixrecord.nix — homeManagerModules.nixrecord: generates OBS Studio's own on-disk config
 # (namespace: programs.nixrecord) instead of hand-editing it through OBS's Settings dialog. Two
 # files per named profile: `~/.config/obs-studio/basic/profiles/<name>/{basic.ini,

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT OR Apache-2.0
 # modules/catalogue.nix — resolves ../lib/nixrecord.nix into platform-neutral selections. Same
 # shape as nixmedia's modules/nixmedia.nix and nixremote's modules/tools.nix: declares WHICH
 # catalogue entries a host wants, and publishes the resolved package names both platform backends

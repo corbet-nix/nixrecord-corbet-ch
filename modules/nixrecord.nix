@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT OR Apache-2.0
 # Shared option surface for nixrecord's program namespace.
 { config, lib, pkgs, ... }:
 let

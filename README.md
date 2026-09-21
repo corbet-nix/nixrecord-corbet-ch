@@ -547,18 +547,18 @@ declaration assumes). [nixarch][nixarch] is the Arch host reconciler the `system
 backend publishes into, and [nixk3s][nixk3s] is the app grammar the `nixidyModules` cluster plane
 declares into.
 
-[nixsh]: https://github.com/julian-corbet/nixsh-corbet-ch
-[nixmedia]: https://github.com/julian-corbet/nixmedia-corbet-ch
-[nixcreative]: https://github.com/julian-corbet/nixcreative-corbet-ch
-[nixaudio]: https://github.com/julian-corbet/nixaudio-corbet-ch
-[nixusb]: https://github.com/julian-corbet/nixusb-corbet-ch
-[nixgpu]: https://github.com/julian-corbet/nixgpu-corbet-ch
-[nixremote]: https://github.com/julian-corbet/nixremote-corbet-ch
-[nixdesktop]: https://github.com/julian-corbet/nixdesktop-corbet-ch
-[nixscroll]: https://github.com/julian-corbet/nixscroll-corbet-ch
-[nixarch]: https://github.com/julian-corbet/nixarch-corbet-ch
-[nixk3s]: https://github.com/julian-corbet/nixk3s-corbet-ch
+[nixsh]: https://github.com/corbet-nix/nixsh-corbet-ch
+[nixmedia]: https://github.com/corbet-nix/nixmedia-corbet-ch
+[nixcreative]: https://github.com/corbet-nix/nixcreative-corbet-ch
+[nixaudio]: https://github.com/corbet-nix/nixaudio-corbet-ch
+[nixusb]: https://github.com/corbet-nix/nixusb-corbet-ch
+[nixgpu]: https://github.com/corbet-nix/nixgpu-corbet-ch
+[nixremote]: https://github.com/corbet-nix/nixremote-corbet-ch
+[nixdesktop]: https://github.com/corbet-nix/nixdesktop-corbet-ch
+[nixscroll]: https://github.com/corbet-nix/nixscroll-corbet-ch
+[nixarch]: https://github.com/corbet-nix/nixarch-corbet-ch
+[nixk3s]: https://github.com/corbet-nix/nixk3s-corbet-ch
 
-## License
+## Licence
 
-[MIT License](LICENSE) © 2026 Julian Corbet
+Outbound licence is `MIT OR Apache-2.0`. See `LICENSE-MIT` and `LICENSE-APACHE`; every source file carries `SPDX-License-Identifier: MIT OR Apache-2.0`.

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT OR Apache-2.0
 # modules/nixos.nix — nixosModules.nixrecord: the system-install half of this repo's split
 # (see flake.nix and README's "The split"). Config generation lives entirely in
 # homeManagerModules.nixrecord — this module never touches it.

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT OR Apache-2.0
 # Reads the plane's promises back off the RENDERED BYTES, not off the options that produced them.
 #
 # The eval check proves the module resolves and refuses. This one proves the manifests that come

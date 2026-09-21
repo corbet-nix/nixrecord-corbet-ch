@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT OR Apache-2.0
 # Proves the cluster module resolves what it claims and REFUSES what it claims to refuse, both
 # directions, through the real renderer and the real app grammar.
 #

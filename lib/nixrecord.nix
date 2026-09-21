@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT OR Apache-2.0
 #
 # The capture catalogue: what a capture session needs installed on the one host that can run one
 # — see README's "The catalogue" for the shape this file follows (same as nixsh's lib/tools.nix
